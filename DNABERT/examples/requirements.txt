@@ -1,0 +1,10 @@
+tensorboardX
+tensorboard
+scikit-learn 
+seqeval
+pyahocorasick
+scipy
+statsmodels
+biopython
+pandas
+pybedtools

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+transformers-cli
+src/transformers.egg-info/PKG-INFO
+src/transformers.egg-info/SOURCES.txt
+src/transformers.egg-info/dependency_links.txt
+src/transformers.egg-info/requires.txt
+src/transformers.egg-info/top_level.txt
